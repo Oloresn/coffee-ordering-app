@@ -733,7 +733,7 @@
           description: "Strong and bold shot of pure espresso.",
           category: 'c1',
           price: 2.85,
-          image: "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/05f6aa9b-9ef7-4ac5-a5a6-1a5d715192d2.png",
+          image: "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/b06d8ee3-0301-4f5a-82d5-fd053625201f.png",
           alt: "Close-up of classic Espresso coffee shot in a small cup"
         },
         {
@@ -742,7 +742,7 @@
           description: "Smooth latte with vanilla syrup and rich foam.",
           category: 'c2',
           price: 4.50,
-          image: "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/c3d269c5-1cb0-49b8-986c-bd58937115f9.png",
+          image: "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/fd12c8fd-9a32-4dba-9361-697b50a8bc7a.png",
           alt: "A cup of vanilla latte with frothy milk and vanilla drizzle"
         },
         {
@@ -751,7 +751,7 @@
           description: "Refreshing cold brew coffee served over ice.",
           category: 'c3',
           price: 3.95,
-          image: "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/aa877e4a-4f12-43aa-9959-79e6718da0a7.png",
+          image: "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/d4b742e3-6ec6-4b3f-9bc6-66a220aaada8.png",
           alt: "Tall glass of iced cold brew coffee with ice cubes"
         },
         {
@@ -760,7 +760,7 @@
           description: "Delicious blend of espresso, chocolate, and steamed milk.",
           category: 'c4',
           price: 5.20,
-          image: "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/09595f87-f1f4-4ae9-a451-9c90412fe26f.png",
+          image: "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/ec2013c7-1873-4a80-b012-157fd6c64e3f.png",
           alt: "Cup of mocha deluxe coffee with chocolate drizzle on top"
         },
         {
@@ -769,7 +769,7 @@
           description: "Rich espresso layered with steamed milk and caramel sauce.",
           category: 'c2',
           price: 4.75,
-          image: "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/e2bfef65-a0be-4bb8-869a-15b21d853edb.png",
+          image: "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/8638f8b8-a104-43d0-8968-383cd90c56ca.png",
           alt: "Cup of caramel macchiato coffee with caramel drizzle on top"
         }
       ];
